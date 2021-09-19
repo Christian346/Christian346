@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript, html, css, sass, react, and other tools that can be used for creating websites
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  my email is chris.346@hotmail.com
+- Happy to Code! 
 
 <!---
 Christian346/Christian346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
