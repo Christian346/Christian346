@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  my email is chris.346@hotmail.com
 - Happy to Code! 
+-Please check out my codes!
 
 <!---
 Christian346/Christian346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
